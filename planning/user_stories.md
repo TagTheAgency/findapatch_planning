@@ -30,6 +30,17 @@
 
 ## Landlords
 ### As a landlord I want to have the ability to list properties.
+- Home type (Apartment, House, Flat)
+- Number of possible tenants.
+- Location (Street Address, City, Zip code)
+- Bedrooms, Bathrooms, Beds
+- Listing Name
+- Listing Summary
+- Facilities (Furniture, Whitewhare, Airconditioning, Gas etc..)
+- Photos
+- Safety (Fire alarm, Fire Extiguisher etc..)
+- Price
+- Available dates
 ### As a landlord I want to contact possible tenants.
 ### As a landlord I want to rate tenants. 
 
