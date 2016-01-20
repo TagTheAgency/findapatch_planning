@@ -53,6 +53,7 @@
 - Bedrooms range
 - Rent range
 - Dates
+
 ### As a tentant I want to view property listings.
 ### ~~As a tentant I want to contact landlords about properties.~~
 ### ~~As a tentant I want to rate landlords.~~
