@@ -47,6 +47,12 @@
 
 ## Tenants
 ### As a tentant I want to search for properties.
+- City
+- Suburbs
+- Property type
+- Bedrooms range
+- Rent range
+- Dates
 ### As a tentant I want to view property listings.
 ### ~~As a tentant I want to contact landlords about properties.~~
 ### ~~As a tentant I want to rate landlords.~~
