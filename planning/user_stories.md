@@ -2,6 +2,11 @@
 
 ## All users
 ### As a user I want to create an account.
+#### Full Name
+#### Email
+#### Password
+#### Checkbox for receiving emails 
+#### Sign up with facebook/google ?
 ### As a user I want to login/logout.
 ### As a user I want to have an account/profile.
 
