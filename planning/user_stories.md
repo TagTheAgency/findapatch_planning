@@ -23,10 +23,10 @@
 - Languages
 - Profile photo
 
-~~### As a user I want to have the option of becoming a verified user.~~
-~~- Photo of official ID~~
-~~- Connect account to Facebook/Google~~
-~~- Phone number, Email, Photo~~
+###~~ As a user I want to have the option of becoming a verified user.~~
+-~~ Photo of official ID~~
+-~~ Connect account to Facebook/Google~~
+-~~ Phone number, Email, Photo~~
 
 ## Landlords
 ### As a landlord I want to have the ability to list properties.
