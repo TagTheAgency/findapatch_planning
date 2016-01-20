@@ -41,6 +41,8 @@
 - Safety (Fire alarm, Fire Extiguisher etc..)
 - Price
 - Available dates
+
+
 ### As a landlord I want to contact possible tenants.
 ### As a landlord I want to rate tenants. 
 
