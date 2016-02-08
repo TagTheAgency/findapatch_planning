@@ -20,7 +20,6 @@
 - Location
 - About section
 - Time zone
-- Languages
 - Profile photo
 
 ### ~~As a user I want to have the option of becoming a verified user.~~
