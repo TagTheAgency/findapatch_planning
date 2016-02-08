@@ -1,27 +1,29 @@
-/login
-	POST
-	RETURNS: a new user session
-	FORMAT { 
-		email: 'johndoe@gmail.com',
-		password: '8WAtp8nUEOrzSu67t9tGITEzIdgr6huIpXqofo0rv2w9y3DzSu67t9tGITEzIdgr6huIpXqoTzARKuumMLuyHlGrWvGXy8acawjyliExMCHCfRU9VzlAipW4HFMVN3XZixDAw4EcmBHnnJozJYoPgheWYx3P1S11TEADaLlKVO5bXyBhEPQu6Z4jdUAdnHUkRuKBuHoCcU0hMTIhTzyYriExMCEI84A='
-	}
 
 
-/users/:id
-	GET
-	RETURNS: a user profile
-	FORMAT: {
-		id: 1,
-		first_name: 'John',
-		last_name: 'Doe'
-		email: 'johndoe@gmail.com',
-		gender: 'Male',
-		address: '4299 Eglinton Avenue, Toronto, ON M4P 1A6',
-		bio: 'SEO Expert. Amateur rugby player.',
-		time_zone: 'UTC+12:00',
-		photo: 'https://i.imgur.com/csCOvHj.jpg',
-		landlord: false
-	}
+	/login
+		POST
+		RETURNS: a new user session
+		FORMAT { 
+			email: 'johndoe@gmail.com',
+			password: '8WAtp8nUEOrzSu67t9tGITEzIdgr6huIpXqofo0rv2w9y3DzSu67t9tGITEzIdgr6huIpXqoTzARKuumMLuyHlGrWvGXy8acawjyliExMCHCfRU9VzlAipW4HFMVN3XZixDAw4EcmBHnnJozJYoPgheWYx3P1S11TEADaLlKVO5bXyBhEPQu6Z4jdUAdnHUkRuKBuHoCcU0hMTIhTzyYriExMCEI84A='
+		}
+
+
+	/users/:id
+		GET
+		RETURNS: a user profile
+		FORMAT: {
+			id: 1,
+			first_name: 'John',
+			last_name: 'Doe'
+			email: 'johndoe@gmail.com',
+			gender: 'Male',
+			address: '4299 Eglinton Avenue, Toronto, ON M4P 1A6',
+			bio: 'SEO Expert. Amateur rugby player.',
+			time_zone: 'UTC+12:00',
+			photo: 'https://i.imgur.com/csCOvHj.jpg',
+			landlord: false
+		}
 
 	/property/:id
 		GET
